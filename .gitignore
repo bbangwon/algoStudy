@@ -1,0 +1,4 @@
+Debug/
+*.db
+ipch/
+*.opendb
