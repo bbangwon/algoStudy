@@ -138,6 +138,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\linkedlist.h" />
     <ClInclude Include="src\minmax.h" />
     <ClInclude Include="src\queue.h" />
     <ClInclude Include="src\rotate.h" />
@@ -146,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="algoStudy.cpp" />
+    <ClCompile Include="src\linkedlist.cpp" />
     <ClCompile Include="src\minmax.cpp" />
     <ClCompile Include="src\queue.cpp" />
     <ClCompile Include="src\rotate.cpp" />
